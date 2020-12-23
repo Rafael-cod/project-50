@@ -1,0 +1,42 @@
+
+            h1{
+                color:yellowgreen
+            }
+
+            a{
+                color: brown;
+            }
+
+            body *{
+                background-color: #o[=];
+                border: solid;
+            }
+
+            *{
+                border: none;
+            }
+            
+            p,h2{
+                text-align: center;
+            }
+
+            .header{
+                background-color: teal;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .grid{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+            }
+
+            .footer{
+                display: flex;
+                justify-content: flex-end;
+            }
+
+            .opening{
+                color: grey;
+            }
