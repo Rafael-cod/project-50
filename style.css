@@ -7,9 +7,8 @@
                 color: brown;
             }
 
-            body *{
-                background-color: #o[=];
-                border: solid;
+            body {
+                background-color: whitesmoke;
             }
 
             *{
@@ -27,9 +26,16 @@
             }
 
             .grid{
-                display: flex;
-                flex-wrap: wrap;
-                justify-content: space-evenly;
+                border: 2px solid black;
+                border-radius: 50px;
+            }
+
+            .origami{
+                border-radius: 20px;
+                background-color: white;
+
+                width: 310px;
+                font-family: fantasy;
             }
 
             .footer{
@@ -37,6 +43,6 @@
                 justify-content: flex-end;
             }
 
-            .opening{
+            .bodyimg{
                 color: grey;
             }
